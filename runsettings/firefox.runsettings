@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <RunConfiguration>
+    <EnvironmentVariables>
+      <BROWSER>Firefox</BROWSER>
+      <HEADLESS>true</HEADLESS>
+    </EnvironmentVariables>
+  </RunConfiguration>
+  <NUnit>
+    <NumberOfTestWorkers>1</NumberOfTestWorkers>
+  </NUnit>
+</RunSettings>

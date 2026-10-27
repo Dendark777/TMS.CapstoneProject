@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <IsPackable>false</IsPackable>
+    <RootNamespace>TMS.CapstoneProject.UI</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TMS.CapstoneProject.Core\TMS.CapstoneProject.Core.csproj" />
+  </ItemGroup>
+
+</Project>

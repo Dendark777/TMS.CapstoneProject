@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/TMS.CapstoneProject.Core/TMS.CapstoneProject.Core.csproj" />
+    <Project Path="src/TMS.CapstoneProject.UI/TMS.CapstoneProject.UI.csproj" />
+    <Project Path="src/TMS.CapstoneProject.API/TMS.CapstoneProject.API.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/TMS.CapstoneProject.Tests.UI/TMS.CapstoneProject.Tests.UI.csproj" />
+    <Project Path="tests/TMS.CapstoneProject.Tests.API/TMS.CapstoneProject.Tests.API.csproj" />
+    <Project Path="tests/TMS.CapstoneProject.Tests.Bdd/TMS.CapstoneProject.Tests.Bdd.csproj" />
+  </Folder>
+</Solution>
